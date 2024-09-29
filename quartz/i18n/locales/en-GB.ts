@@ -47,11 +47,11 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
+      title: "Pesquisa",
       searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
-      title: "Table of Contents",
+      title: "Conteúdos",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,
