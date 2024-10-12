@@ -13,7 +13,7 @@ Existem outros serviços pagos, como o WaniKani, que basicamente fazem a mesma c
 ## Ajustando o "Engine" do seu Deck 🛠️
 
 Agora, clicando no Deck que a instrutora Matsuda indicar, você vai acessar a ferramenta de "engine", que fica ao lado do nome do Deck. Ali, você poderá mudar algumas configurações importantes:
-![[Captura de ecrã_2024-09-10_18-36-39.png]]
+![[quartz/content/Japonês/Captura de ecrã_2024-09-10_18-36-39.png]]
 - **New cards/day**: Essa configuração define quantos cards novos você quer aprender por dia. Adaptar isso ao seu ritmo é essencial. Algo entre 10 e 15 cards por dia funciona bem pro **Hiragana** e se alinha com a metodologia que adotamos. Se você não quer limitar o número de cards, pode colocar um valor bem alto.
     
     > **Dica**: Se você escolher um número muito grande, pode ser difícil reter as informações. Vá com calma! 😅
@@ -25,8 +25,8 @@ Agora, clicando no Deck que a instrutora Matsuda indicar, você vai acessar a fe
 - **Easy interval**: Recomendamos **4 dias** para os cards que você marcar como "fáceis".
     
 - **Insertion Order**: Mantenha em **Sequential** para os cards serem apresentados na ordem em que foram criados.
-![[Captura de ecrã_2024-09-10_18-33-01.png]]
-![[Captura de ecrã_2024-09-10_17-06-02.png]]
+![[quartz/content/Japonês/Captura de ecrã_2024-09-10_18-33-01.png]]
+![[quartz/content/Japonês/Captura de ecrã_2024-09-10_17-06-02.png]]
 Quando você abre o Anki e começa a aprender um deck novo, logo de cara vai se deparar com quatro botões: **Again**, **Hard**, **Good** e **Easy**. Eles aparecem em vermelho, laranja, verde e azul, respectivamente. Cada uma dessas opções vai moldar o seu aprendizado, porque o Anki usa suas respostas pra ajustar o intervalo de tempo entre as revisões.
 
 **Então, o que cada botão faz nas nossas novas configurações?**
@@ -48,7 +48,7 @@ Quando errar um card, recomendo marcar **Again** (🔴) em vez de **Hard** (🟠
 - **Leech**: Coloque **4** (número de erros seguidos). Quando você errar o mesmo card quatro vezes seguidas, ele será marcado como "leech", o que significa que você precisa prestar mais atenção nele.
 - **Leech action**: Coloque como **Tag only**. **Nunca** use a opção de "Suspend", porque isso removeria o card da sua lista de revisão, o que não é bom para cards difíceis!
 
-![[Captura de ecrã_2024-09-10_17-13-42.png]]
+![[quartz/content/Japonês/Captura de ecrã_2024-09-10_17-13-42.png]]
 
 - **Relearning steps**: Aqui, definimos **30m**. Ou seja, se você errar um card (lapse), ele vai voltar em 30 minutos pra você revisar.
 - **Minimum interval**: Defina para **1** dia. Isso garante que, mesmo que você tenha dificuldades com o card, ele vai aparecer no mínimo um dia depois.
