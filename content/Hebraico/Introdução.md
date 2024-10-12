@@ -36,19 +36,18 @@ Não é como a letra "A" ou "E", apesar de muito vezes ser explicado como se fos
 
 🔊 Pronúncia forte (com dagesh):
 
-```
+
 בּ → Bet (לִשְׁבּוֹר, lishbor – "quebrar")
 כּ → Kaf (כּוֹתֵב, kotev – "escrevendo")
 פּ → Peh (מִסְפָּר, mispar – "número")
-```
+
 
 🔊 Pronúncia fraca (sem dagesh):
 
-```
+
 ב → Vet (עוֹבֵד, oved – "trabalhando")
 פ → Fe (שׁוֹפֵךְ, shofech – "derramando")
 פ → Fe (אֶלֶף, elef – "mil")
-```
 
 📖 **Como identificar o Dagesh?**
 
@@ -90,19 +89,18 @@ Quando פ, כ, e ב aparecem no meio de uma palavra, podem ser pronunciados como
 
 🔍 Leia os seguintes exemplos onde פ, כ, e ב são pronunciados como sons fortes:
 
-```
+
 לִשְׁפּוֹט (lishpot – "julgar")
 מַסְכִּים (maskim – "concordando")
 מִדְבָּר (midbar – "deserto")
-```
 
 🧐 Que tipo de sílaba aparece antes de פ, כ, e ב nessas palavras – uma sílaba aberta ou fechada? ➡️ Elas aparecem imediatamente após uma sílaba fechada (uma sílaba que termina em consoante).
 
 ⚠️ Regra: No meio de uma palavra, sempre que פ, כ, e ב aparecem após uma sílaba fechada, são pronunciados como sons fortes (com dagesh).
 
-### 🗣️ Pronúncia **do Kaf Rafé (/x~X/)**
+### 🗣️ Pronúncia **do Kaf (/x~X/)**
 
-Quase universalmente, os judeus pronunciam a letra **kaf rafé** (כ sem o dagueš) como o som fricativo **/x/** (similar ao "ch" em alemão, como em "Bach") ou **/X/** (um som uvular). Algumas pessoas, no entanto, têm dificuldade em pronunciar esse som. Nesses casos, elas podem substituí-lo por **/k/** (o som oclusivo, como no kaf com dagueš) ou **/h/** (o som aspirado, como em "h" inglês). Além disso, há quem, por hipercorreção, erroneamente pronuncie o **kaf rafé** como um som **faríngeo**.
+Quase universalmente, os judeus pronunciam a letra **kaf**(כ sem o dagueš) como o som fricativo **/x/** (similar ao "ch" em alemão, como em "Bach") ou **/X/** (um som uvular). Algumas pessoas, no entanto, têm dificuldade em pronunciar esse som. Nesses casos, elas podem substituí-lo por **/k/** (o som oclusivo, como no kaf com dagueš) ou **/h/** (o som aspirado, como em "h" inglês). Além disso, há quem, por hipercorreção, erroneamente pronuncie o **kaf** como um som **faríngeo**.
 
 ### 🔄 **Mudanças no Som do "R"**
 
@@ -119,15 +117,6 @@ O hebraico moderno utiliza apenas **5 vogais fonêmicas**. Isso significa que, a
 - **Vogais:** /a/, /e/, /i/, /o/, /u/
 - **Ausência de distinção:** Não há uma diferença significativa entre o **tsere** (e.g., ê) e o **segol** (e.g., é) no hebraico moderno. Ambos são representados pelo som /e/.
 - **Ditongos:** Um importante detalhe fonético do hebraico moderno é o surgimento de ditongos, como o som /ej/. Por exemplo, a palavra "תימן" (Iêmen) é pronunciada /tej.'man/, onde o /ej/ aparece claramente.
-
-### 📜 **A Fonética do Hebraico Tiberiano**
-
-A fonética do **hebraico tiberiano** (a forma mais antiga de hebraico registrada pelos Masoretas) é bastante diferente da fonética moderna. Nesse sistema, havia **7 qualidades vocálicas**:
-
-- /a/, /ε/ (som de è), /e/ (som de é), /i/, /ɔ/ (som de ó), /o/, /u/
-- Havia também uma distinção entre **vogais longas e curtas**, além de vogais **ultra-curtas**, que eram fonêmicas (ou seja, diferenciavam palavras). Por exemplo, o **chiriq** em יראו ("eles verão") representa uma vogal curta, enquanto o chiriq em ייראו ("eles temerão") representa uma vogal longa.
-
-Além disso, o **shevá na'** (som curto e fraco) era equivalente ao **chataf patach** (som ultra-curto /a/), como nas palavras onde se esperaria o shevá.
 
 ### 📜 **A Fonética do Hebraico Tiberiano (Curiosidade Histórica)**
 
