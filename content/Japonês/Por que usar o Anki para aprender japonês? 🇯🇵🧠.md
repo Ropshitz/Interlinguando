@@ -13,7 +13,7 @@ Existem outros serviços pagos, como o WaniKani, que basicamente fazem a mesma c
 ## Ajustando o "Engine" do seu Deck 🛠️
 
 Agora, clicando no Deck que a instrutora Matsuda indicar, você vai acessar a ferramenta de "engine", que fica ao lado do nome do Deck. Ali, você poderá mudar algumas configurações importantes:
-![](./images/anki1.jpg)
+![Descrição da imagem](https://i.imgur.com/ItgI4ej.png)
 - **New cards/day**: Essa configuração define quantos cards novos você quer aprender por dia. Adaptar isso ao seu ritmo é essencial. Algo entre 10 e 15 cards por dia funciona bem pro **Hiragana** e se alinha com a metodologia que adotamos. Se você não quer limitar o número de cards, pode colocar um valor bem alto.
     
     > **Dica**: Se você escolher um número muito grande, pode ser difícil reter as informações. Vá com calma! 😅
