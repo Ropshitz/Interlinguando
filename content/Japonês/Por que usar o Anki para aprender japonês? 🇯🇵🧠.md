@@ -27,8 +27,8 @@ Agora, clicando no Deck que a instrutora Matsuda indicar, você vai acessar a fe
 - **Easy interval**: Recomendamos **4 dias** para os cards que você marcar como "fáceis".
     
 - **Insertion Order**: Mantenha em **Sequential** para os cards serem apresentados na ordem em que foram criados.
-![Teste](https://i.imgur.com/2uKz0ar.png)
-![Descrição da imagem](https://i.imgur.com/z990PXv.png)
+![Uma bela imagem](https://i.imgur.com/2uKz0ar.png)
+![Uma bela imagem](https://i.imgur.com/z990PXv.png)
 
 Quando você abre o Anki e começa a aprender um deck novo, logo de cara vai se deparar com quatro botões: **Again**, **Hard**, **Good** e **Easy**. Eles aparecem em vermelho, laranja, verde e azul, respectivamente. Cada uma dessas opções vai moldar o seu aprendizado, porque o Anki usa suas respostas pra ajustar o intervalo de tempo entre as revisões.
 
@@ -51,7 +51,7 @@ Quando errar um card, recomendo marcar **Again** (🔴) em vez de **Hard** (🟠
 - **Leech**: Coloque **4** (número de erros seguidos). Quando você errar o mesmo card quatro vezes seguidas, ele será marcado como "leech", o que significa que você precisa prestar mais atenção nele.
 - **Leech action**: Coloque como **Tag only**. **Nunca** use a opção de "Suspend", porque isso removeria o card da sua lista de revisão, o que não é bom para cards difíceis!
 
-![Descrição da imagem](https://i.imgur.com/xtgBnzd.png)
+![Uma bela imagem](https://i.imgur.com/xtgBnzd.png)
 
 - **Relearning steps**: Aqui, definimos **30m**. Ou seja, se você errar um card (lapse), ele vai voltar em 30 minutos pra você revisar.
 - **Minimum interval**: Defina para **1** dia. Isso garante que, mesmo que você tenha dificuldades com o card, ele vai aparecer no mínimo um dia depois.
